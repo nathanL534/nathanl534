@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi, my name is Nathan Lee. 
+I am currently studying computer science at the University of Chicago.
+
+
+
+
+## Some of the langauges I code in:
+- Java
+- Python
+
+
+
+
+## Contacts: 
+- njlee007@gmail.com
+
+
+
+
+
+
 
 <!--
 **nathanL534/nathanl534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
