@@ -1,5 +1,5 @@
 # Hi, my name is Nathan Lee. 
-I am currently studying computer science at the University of Chicago.
+I am currently studying computer science and physics at the University of Chicago.
 
 
 
